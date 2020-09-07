@@ -1,5 +1,5 @@
 ## *how-to-make-photo* 
-# **"[Pfoto](https://andreyvolkov88.github.io/how-to-make-photo/)"**
+# **"[Pfoto](https://andreyvolkov88.github.io/How-to-make-photo)"**
 ------
 
 ## Описание проекта
@@ -14,4 +14,4 @@
 
 ________
 ### Опубликованный проект
-Ознакомиться с проектом вы сможете по ссылке [how-to-make-photo](https://andreyvolkov88.github.io/how-to-make-photo/).
+Ознакомиться с проектом вы сможете по ссылке [how-to-make-photo](https://andreyvolkov88.github.io/How-to-make-photo).
